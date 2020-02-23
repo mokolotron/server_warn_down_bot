@@ -1,9 +1,9 @@
 # server_warn_down_bot
 Send message to telegram chanel when server was started
 
-#Instalation
+# Instalation
 1. `git clone https://github.com/mokolotron/server_warn_down_bot.git`
-2. `cd server_warn_down_bot` and rename file `api-sample.js` in `api.js`
+2. `cd server_warn_down_bot` and rename file `api-sample.js` in `api.js`, then run `npm install`
 3. open and fill all veriables in file `api.js`
   3.1 Create telegram bot in bot father and paste token in variable `token`
   3.2 Create the telegram channel and add your bot as amdmin to this channel
