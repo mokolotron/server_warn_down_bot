@@ -13,5 +13,5 @@ Send message to telegram chanel when server was started
   * 5.1 `crontab -e`
   * 5.2 add this command to end of file `@reboot node /full/path/to/server_warn_down_bot/main.js`
   * 5.3 save the file
-6.Enjoy
+6. Enjoy
   
